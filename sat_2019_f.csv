@@ -1,0 +1,50 @@
+,state,sat_score,region,sat_required,participation
+0,Alabama,1143,South,no,7.0
+1,Arizona,1134,West,no,31.0
+2,Arkansas,1141,South,no,6.0
+3,California,1065,West,no,63.0
+4,Colorado,1024,West,yes,100.0
+5,Connecticut,1046,Northeast,yes,100.0
+6,Delaware,985,South,yes,100.0
+7,District of Columbia,975,South,yes,94.0
+8,Florida,999,South,no,100.0
+9,Georgia,1058,South,no,71.0
+10,Idaho,993,West,yes,100.0
+11,Illinois,1013,Midwest,yes,100.0
+12,Indiana,1080,Midwest,no,66.0
+13,Iowa,1244,Midwest,no,3.0
+14,Kansas,1241,Midwest,no,4.0
+15,Kentucky,1232,South,no,4.0
+16,Louisiana,1200,South,no,5.0
+17,Maine,1013,Northeast,yes,99.0
+18,Maryland,1058,South,no,82.0
+19,Massachusetts,1120,Northeast,no,81.0
+20,Michigan,1003,Midwest,yes,100.0
+21,Minnesota,1284,Midwest,no,4.0
+22,Mississippi,1237,South,no,3.0
+23,Missouri,1236,Midwest,no,4.0
+24,Montana,1199,West,no,9.0
+25,Nebraska,1260,Midwest,no,3.0
+26,Nevada,1156,West,no,20.0
+27,New Hampshire,1059,Northeast,yes,95.0
+28,New Jersey,1090,Northeast,no,82.0
+29,New Mexico,1073,West,no,18.0
+30,New York,1064,Northeast,no,79.0
+31,North Carolina,1100,South,no,51.0
+32,North Dakota,1263,Midwest,no,2.0
+33,Ohio,1097,Midwest,yes,19.0
+34,Oklahoma,963,South,no,22.0
+35,Oregon,1112,West,no,51.0
+36,Pennsylvania,1082,Northeast,no,70.0
+37,Rhode Island,995,Northeast,no,100.0
+38,South Carolina,1030,South,no,68.0
+39,South Dakota,1268,Midwest,no,3.0
+40,Tennessee,1220,South,yes,7.0
+41,Texas,1022,South,no,68.0
+42,Utah,1230,West,no,4.0
+43,Vermont,1106,Northeast,no,66.0
+44,Virginia,1119,South,no,68.0
+45,Washington,1074,West,no,70.0
+46,West Virginia,943,South,no,99.0
+47,Wisconsin,1283,Midwest,no,3.0
+48,Wyoming,1238,West,no,3.0

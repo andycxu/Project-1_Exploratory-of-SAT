@@ -1,0 +1,147 @@
+,state,sat_score,region,sat_required,participation,year
+0,Alabama,1165,South,no,5.0,2017
+1,Arizona,1116,West,no,30.0,2017
+2,Arkansas,1208,South,no,3.0,2017
+3,California,1055,West,no,53.0,2017
+4,Colorado,1201,West,yes,11.0,2017
+5,Connecticut,1041,Northeast,yes,100.0,2017
+6,Delaware,996,South,yes,100.0,2017
+7,District of Columbia,950,South,yes,100.0,2017
+8,Florida,1017,South,no,83.0,2017
+9,Georgia,1050,South,no,61.0,2017
+10,Idaho,1005,West,yes,93.0,2017
+11,Illinois,1115,Midwest,yes,9.0,2017
+12,Indiana,1074,Midwest,no,63.0,2017
+13,Iowa,1275,Midwest,no,2.0,2017
+14,Kansas,1260,Midwest,no,4.0,2017
+15,Kentucky,1247,South,no,4.0,2017
+16,Louisiana,1198,South,no,4.0,2017
+17,Maine,1012,Northeast,yes,95.0,2017
+18,Massachusetts,1107,Northeast,no,76.0,2017
+19,Michigan,1005,Midwest,yes,100.0,2017
+20,Minnesota,1295,Midwest,no,3.0,2017
+21,Mississippi,1242,South,no,2.0,2017
+22,Missouri,1271,Midwest,no,3.0,2017
+23,Montana,1196,West,no,10.0,2017
+24,Nebraska,1253,Midwest,no,3.0,2017
+25,Nevada,1116,West,no,26.0,2017
+26,New Hampshire,1052,Northeast,yes,96.0,2017
+27,New Jersey,1056,Northeast,no,70.0,2017
+28,New Mexico,1138,West,no,11.0,2017
+29,New York,1052,Northeast,no,67.0,2017
+30,North Carolina,1081,South,no,49.0,2017
+31,North Dakota,1256,Midwest,no,2.0,2017
+32,Ohio,1149,Midwest,yes,12.0,2017
+33,Oklahoma,1047,South,no,7.0,2017
+34,Oregon,1108,West,no,43.0,2017
+35,Pennsylvania,1071,Northeast,no,65.0,2017
+36,Rhode Island,1062,Northeast,no,71.0,2017
+37,South Carolina,1064,South,no,50.0,2017
+38,South Dakota,1216,Midwest,no,3.0,2017
+39,Tennessee,1228,South,yes,5.0,2017
+40,Texas,1020,South,no,62.0,2017
+41,Utah,1238,West,no,3.0,2017
+42,Vermont,1114,Northeast,no,60.0,2017
+43,Virginia,1102,South,no,65.0,2017
+44,Washington,1075,West,no,64.0,2017
+45,West Virginia,1086,South,no,14.0,2017
+46,Wisconsin,1291,Midwest,no,3.0,2017
+47,Wyoming,1230,West,no,3.0,2017
+0,Alabama,1166,South,no,6.0,2018
+1,Arizona,1149,West,no,29.0,2018
+2,Arkansas,1169,South,no,5.0,2018
+3,California,1076,West,no,60.0,2018
+4,Colorado,1025,West,yes,100.0,2018
+5,Connecticut,1053,Northeast,yes,100.0,2018
+6,Delaware,998,South,yes,100.0,2018
+7,District of Columbia,977,South,yes,92.0,2018
+8,Florida,1099,South,no,56.0,2018
+9,Georgia,1064,South,no,70.0,2018
+10,Idaho,1001,West,yes,100.0,2018
+11,Illinois,1019,Midwest,yes,99.0,2018
+12,Indiana,1074,Midwest,no,63.0,2018
+13,Iowa,1265,Midwest,no,3.0,2018
+14,Kansas,1265,Midwest,no,4.0,2018
+15,Kentucky,1248,South,no,4.0,2018
+16,Louisiana,1210,South,no,4.0,2018
+17,Maine,1013,Northeast,yes,99.0,2018
+18,Maryland,1080,South,no,76.0,2018
+19,Massachusetts,1125,Northeast,no,80.0,2018
+20,Michigan,1011,Midwest,yes,100.0,2018
+21,Minnesota,1298,Midwest,no,4.0,2018
+22,Mississippi,1236,South,no,3.0,2018
+23,Missouri,1262,Midwest,no,4.0,2018
+24,Montana,1198,West,no,10.0,2018
+25,Nebraska,1252,Midwest,no,3.0,2018
+26,Nevada,1140,West,no,23.0,2018
+27,New Hampshire,1063,Northeast,yes,96.0,2018
+28,New Jersey,1094,Northeast,no,82.0,2018
+29,New Mexico,1093,West,no,16.0,2018
+30,New York,1068,Northeast,no,79.0,2018
+31,North Carolina,1098,South,no,52.0,2018
+32,North Dakota,1283,Midwest,no,2.0,2018
+33,Oklahoma,1062,South,no,8.0,2018
+34,Ohio,1099,Midwest,yes,18.0,2018
+35,Oregon,1117,West,no,48.0,2018
+36,Pennsylvania,1086,Northeast,no,70.0,2018
+37,Rhode Island,1018,Northeast,no,97.0,2018
+38,South Carolina,1070,South,no,55.0,2018
+39,South Dakota,1240,Midwest,no,3.0,2018
+40,Tennessee,1231,South,yes,6.0,2018
+41,Texas,1032,South,no,66.0,2018
+42,Utah,1010,West,no,4.0,2018
+43,Vermont,1120,Northeast,no,64.0,2018
+44,Virginia,1117,South,no,68.0,2018
+45,Washington,1081,West,no,69.0,2018
+46,West Virginia,999,South,no,28.0,2018
+47,Wisconsin,1294,Midwest,no,3.0,2018
+48,Wyoming,1257,West,no,3.0,2018
+0,Alabama,1143,South,no,7.0,2019
+1,Arizona,1134,West,no,31.0,2019
+2,Arkansas,1141,South,no,6.0,2019
+3,California,1065,West,no,63.0,2019
+4,Colorado,1024,West,yes,100.0,2019
+5,Connecticut,1046,Northeast,yes,100.0,2019
+6,Delaware,985,South,yes,100.0,2019
+7,District of Columbia,975,South,yes,94.0,2019
+8,Florida,999,South,no,100.0,2019
+9,Georgia,1058,South,no,71.0,2019
+10,Idaho,993,West,yes,100.0,2019
+11,Illinois,1013,Midwest,yes,100.0,2019
+12,Indiana,1080,Midwest,no,66.0,2019
+13,Iowa,1244,Midwest,no,3.0,2019
+14,Kansas,1241,Midwest,no,4.0,2019
+15,Kentucky,1232,South,no,4.0,2019
+16,Louisiana,1200,South,no,5.0,2019
+17,Maine,1013,Northeast,yes,99.0,2019
+18,Maryland,1058,South,no,82.0,2019
+19,Massachusetts,1120,Northeast,no,81.0,2019
+20,Michigan,1003,Midwest,yes,100.0,2019
+21,Minnesota,1284,Midwest,no,4.0,2019
+22,Mississippi,1237,South,no,3.0,2019
+23,Missouri,1236,Midwest,no,4.0,2019
+24,Montana,1199,West,no,9.0,2019
+25,Nebraska,1260,Midwest,no,3.0,2019
+26,Nevada,1156,West,no,20.0,2019
+27,New Hampshire,1059,Northeast,yes,95.0,2019
+28,New Jersey,1090,Northeast,no,82.0,2019
+29,New Mexico,1073,West,no,18.0,2019
+30,New York,1064,Northeast,no,79.0,2019
+31,North Carolina,1100,South,no,51.0,2019
+32,North Dakota,1263,Midwest,no,2.0,2019
+33,Ohio,1097,Midwest,yes,19.0,2019
+34,Oklahoma,963,South,no,22.0,2019
+35,Oregon,1112,West,no,51.0,2019
+36,Pennsylvania,1082,Northeast,no,70.0,2019
+37,Rhode Island,995,Northeast,no,100.0,2019
+38,South Carolina,1030,South,no,68.0,2019
+39,South Dakota,1268,Midwest,no,3.0,2019
+40,Tennessee,1220,South,yes,7.0,2019
+41,Texas,1022,South,no,68.0,2019
+42,Utah,1230,West,no,4.0,2019
+43,Vermont,1106,Northeast,no,66.0,2019
+44,Virginia,1119,South,no,68.0,2019
+45,Washington,1074,West,no,70.0,2019
+46,West Virginia,943,South,no,99.0,2019
+47,Wisconsin,1283,Midwest,no,3.0,2019
+48,Wyoming,1238,West,no,3.0,2019

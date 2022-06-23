@@ -1,0 +1,411 @@
+,school,applicant_number,sat_low,sat_upper,accept_rate,rate
+0,Stanford University,47452,1440.0,1570.0,4.3,top
+1,Harvard College,42749,1460.0,1580.0,4.7,top
+2,Princeton University,35370,1440.0,1570.0,5.5,top
+3,Columbia University,40203,1450.0,1560.0,5.5,top
+4,Yale University,36844,1460.0,1570.0,6.1,top
+5,California Institute of Technology,8367,1530.0,1560.0,6.4,top
+6,Massachusetts Institute of Technology,21706,1500.0,1570.0,6.7,top
+7,Brown University,38674,1440.0,1570.0,7.1,top
+8,University of Chicago,32283,1490.0,1570.0,7.3,top
+9,Pomona College,10401,1390.0,1540.0,7.4,top
+10,University of Pennsylvania,44961,1450.0,1560.0,7.7,top
+11,Dartmouth College,23650,1440.0,1560.0,7.9,top
+12,Bowdoin College,9332,1330.0,1520.0,8.8,top
+13,Duke University,35767,1450.0,1570.0,8.9,top
+14,Swarthmore College,11442,1380.0,1540.0,8.9,top
+15,Northwestern University,40585,1440.0,1550.0,9.1,top
+16,Vanderbilt University,37310,1460.0,1560.0,9.1,top
+390,United States Naval Academy,16332,1140.0,1285.0,8.3,top
+17,Claremont McKenna College,6066,1360.0,1510.0,10.3,good
+18,Johns Hopkins University,29129,1470.0,1560.0,10.6,good
+19,Cornell University,49114,1400.0,1560.0,10.9,good
+20,Rice University,20923,1450.0,1560.0,11.1,good
+21,Amherst College,10569,1410.0,1550.0,11.3,good
+22,Barnard College,9320,1340.0,1520.0,11.8,good
+23,Bates College,8222,1270.0,1480.0,12.1,good
+24,University of California—​Los Angeles,111322,1290.0,1510.0,12.3,good
+25,Tulane University,42185,1360.0,1520.0,12.9,good
+26,University of Southern California,64352,1350.0,1530.0,13.0,good
+27,Williams College,9560,1410.0,1550.0,13.0,good
+28,Colby College,12313,1350.0,1510.0,13.0,good
+29,Pitzer College,4358,1340.0,1490.0,13.3,good
+30,Colorado College,9456,1300.0,1480.0,13.5,good
+31,Harvey Mudd College,4045,1490.0,1570.0,13.7,good
+32,Georgetown University,22872,1370.0,1530.0,14.5,good
+33,University of California—​Berkeley,89621,1300.0,1530.0,14.8,good
+34,Tufts University,22766,1390.0,1540.0,15.0,good
+35,Washington University in St. Louis,31320,1470.0,1570.0,15.0,good
+36,Middlebury College,9754,1360.0,1530.0,15.4,good
+37,Carnegie Mellon University,27634,1460.0,1560.0,15.4,good
+38,University of Notre Dame,22200,1400.0,1550.0,15.8,good
+39,The Cooper Union,2447,1283.0,1510.0,16.0,good
+40,New York University,79462,1370.0,1510.0,16.2,good
+41,Haverford College,4963,1380.0,1540.0,16.3,good
+42,Wesleyan University,13264,1320.0,1510.0,16.5,good
+43,Hamilton College,8279,1370.0,1520.0,16.5,good
+44,Northeastern University,62263,1390.0,1540.0,18.1,good
+45,Davidson College,5982,1310.0,1485.0,18.1,good
+46,Emory University,27559,1350.0,1520.0,18.5,good
+47,Carleton College,7382,1360.0,1540.0,19.0,good
+48,Georgia Institute of Technology,36856,1300.0,1510.0,20.6,good
+49,Washington and Lee University,5855,1348.0,1490.0,21.2,good
+50,Wellesley College,6395,1360.0,1530.0,21.6,good
+51,Boston University,64481,1330.0,1500.0,22.1,good
+52,Colgate University,9951,1330.0,1500.0,22.6,good
+53,University of North Carolina—​Chapel Hill,42466,1300.0,1490.0,22.6,good
+54,University of Michigan—​Ann Arbor,64972,1340.0,1530.0,22.9,good
+55,Vassar College,8961,1370.0,1530.0,23.7,good
+56,Rhode Island School of Design,3913,1180.0,1440.0,23.9,good
+57,University of Virginia,40839,1340.0,1500.0,23.9,good
+58,Grinnell College,7349,1370.0,1530.0,24.4,good
+59,Babson College,6362,1270.0,1450.0,24.0,good
+60,University of California—​Irvine,95568,1180.0,1440.0,26.5,good
+61,University of Miami,38919,1280.0,1420.0,27.1,good
+62,Boston College,35552,1370.0,1490.0,27.2,good
+63,Villanova University,22909,1320.0,1470.0,28.2,good
+64,University of Richmond,12356,1290.0,1460.0,28.3,good
+65,California State Polytechnic University—​San Luis Obispo,54072,1250.0,1420.0,28.4,good
+66,Trinity University,9864,1290.0,1450.0,28.8,good
+67,Case Western Reserve University,26642,1350.0,1520.0,29.3,good
+68,University of Rochester,20216,1300.0,1500.0,29.5,good
+69,University of California—​Santa Barbara,93457,1260.0,1460.0,29.6,good
+70,Wake Forest University,12559,1320.0,1490.0,29.6,good
+71,Skidmore College,11102,1220.0,1400.0,30.0,good
+72,University of California—​San Diego,97901,1250.0,1470.0,30.2,good
+73,Franklin and Marshall College,9502,1250.0,1460.0,30.4,good
+74,Brandeis University,11798,1280.0,1500.0,31.1,good
+75,Lafayette College,8521,1250.0,1440.0,31.5,good
+76,American University,18984,1220.0,1380.0,31.5,good
+77,University of Texas—​Austin,53525,1240.0,1470.0,31.8,good
+78,Scripps College,3022,1333.0,1490.0,32.0,good
+79,Lehigh University,15649,1280.0,1450.0,32.1,good
+80,Macalester College,6598,1320.0,1510.0,32.3,good
+81,Smith College,5597,1340.0,1520.0,32.5,good
+82,Bryn Mawr College,3332,1290.0,1510.0,33.1,good
+83,Trinity College (Hartford),6096,1300.0,1460.0,33.5,good
+84,Denison University,8042,1210.0,1380.0,33.9,good
+85,San Diego State University,69842,1110.0,1320.0,34.0,good
+86,Kenyon College,6662,1270.0,1460.0,34.1,good
+87,College of the Holy Cross,7200,1260.0,1430.0,34.2,good
+88,Bucknell University,9845,1255.0,1430.0,34.2,good
+89,Emerson College,12941,1200.0,1390.0,35.6,good
+90,Pepperdine University,11265,1220.0,1420.0,35.7,good
+91,Hampton University,13028,1040.0,1310.0,36.0,good
+92,Oberlin College,7708,1280.0,1480.0,36.4,good
+93,CUNY--Hunter,31030,1090.0,1260.0,36.4,good
+94,Occidental College,7501,1300.0,1480.0,36.7,good
+95,Connecticut College,6784,1310.0,1450.0,37.4,good
+96,College of William and Mary,14680,1320.0,1510.0,37.7,good
+97,Mount Holyoke College,3908,1270.0,1490.0,38.2,good
+98,Berea College,1576,1030.0,1213.0,38.2,good
+99,Pratt Institute,7941,1100.0,1320.0,38.5,good
+100,Soka University of America,464,1180.0,1410.0,38.8,good
+101,California State University--Los Angeles,39854,890.0,1080.0,39.0,good
+102,California State University--Long Beach,71297,1040.0,1250.0,39.3,good
+103,Reed College,5815,1325.0,1520.0,39.5,good
+104,Binghamton University—​SUNY,38755,1310.0,1440.0,39.8,good
+105,Dickinson College,6426,1240.0,1410.0,40.1,good
+106,University of Tulsa,8526,1180.0,1410.0,40.8,good
+107,George Washington University,26968,1280.0,1470.0,40.9,good
+108,University of California—​Davis,76647,1150.0,1410.0,41.2,good
+109,Stevens Institute of Technology,9265,1330.0,1480.0,41.4,good
+110,St. Lawrence University,6998,1160.0,1350.0,42.4,good
+111,Union College (Schenectady NY),6086,1220.0,1420.0,42.9,good
+112,Rensselaer Polytechnic Institute,20402,1330.0,1500.0,43.0,good
+113,Bentley University,9252,1240.0,1410.0,43.2,good
+114,CUNY--Baruch College,20303,1130.0,1330.0,43.4,good
+115,Spelman College,9106,1080.0,1230.0,43.4,good
+116,Loyola Marymount University,18592,1230.0,1410.0,43.8,good
+117,University of Maryland—​College Park,32987,1280.0,1480.0,44.1,good
+118,Stony Brook University—​SUNY,37079,1230.0,1440.0,44.1,good
+119,Rhodes College,5207,1220.0,1430.0,44.7,good
+120,North Carolina State University—​Raleigh,30995,1250.0,1390.0,44.9,good
+121,Baylor University,34582,1200.0,1380.0,45.3,good
+122,University of Dallas,4676,1150.0,1360.0,45.3,good
+123,Gettysburg College,6269,1270.0,1420.0,45.4,good
+124,Fordham University,46308,1250.0,1430.0,46.0,good
+125,Texas Christian University,19028,1150.0,1350.0,47.1,good
+126,Southern Methodist University,13959,1300.0,1480.0,47.3,good
+127,Providence College,11478,1210.0,1350.0,47.5,good
+128,St. Olaf College,5694,1190.0,1430.0,47.5,good
+129,University of New Mexico,12281,1040.0,1270.0,48.6,good
+130,University of Georgia,26027,1240.0,1410.0,48.6,good
+131,University of San Diego,13755,1200.0,1350.0,48.7,good
+132,University of Connecticut,34886,1210.0,1420.0,48.8,good
+133,Santa Clara University,16300,1280.0,1440.0,48.8,good
+134,Southwestern University,4766,1140.0,1320.0,49.0,good
+135,Pennsylvania State University—​University Park,71903,1160.0,1370.0,49.1,good
+136,Marist College,11260,1210.0,1360.0,49.2,good
+137,The College of New Jersey,13824,1160.0,1360.0,49.3,good
+138,Worcester Polytechnic Institute,10645,1310.0,1470.0,49.4,good
+139,Syracuse University,34981,1180.0,1370.0,49.9,good
+391,United States Military Academy,11675,1200.0,1340.0,10.3,good
+392,United States Air Force Academy,10354,1275.0,1465.0,11.1,good
+393,United States Coast Guard Academy,2274,1160.0,1340.0,12.8,good
+394,United States Merchant Maritime Academy,1693,1280.0,1440.0,24.8,good
+395,Howard University,20946,1170.0,1330.0,31.6,good
+396,Florida State University,58936,793.0,1078.0,36.0,good
+397,Hillsdale College,2208,1240.0,1300.0,36.0,good
+398,University of Central Florida,35240,1010.0,1210.0,38.2,good
+399,University of Florida,38905,1060.0,1280.0,38.8,good
+400,University of South Florida,36986,1150.0,1360.0,47.7,good
+140,University of La Verne,7276,1020.0,1205.0,50.9,ok
+141,Clemson University,29070,1230.0,1400.0,51.3,ok
+142,Austin College,4360,1110.0,1290.0,51.3,ok
+143,University of California—​Santa Cruz,55906,1200.0,1360.0,51.5,ok
+144,University of Washington--Seattle,45579,1240.0,1440.0,51.8,ok
+145,California State University--Fullerton,50105,1030.0,1200.0,52.7,ok
+146,University of Wisconsin—​Madison,43921,1330.0,1450.0,53.0,ok
+147,Colorado School of Mines,11756,1260.0,1460.0,53.1,ok
+148,Chapman University,14198,1190.0,1370.0,53.6,ok
+149,Ohio State University—​Columbus,47703,1250.0,1460.0,53.7,ok
+150,Texas Lutheran University,2198,990.0,1160.0,54.3,ok
+151,University at Albany—​SUNY,27529,1090.0,1250.0,54.3,ok
+152,Georgia Southern,13858,1050.0,1200.0,54.5,ok
+153,College of Wooster,6352,1150.0,1380.0,54.7,ok
+154,San Jose State University,36243,1040.0,1260.0,54.7,ok
+155,California State Polytechnic University--Pomona,36660,1030.0,1250.0,55.5,ok
+156,Whitman College,4832,1240.0,1450.0,55.8,ok
+157,Sarah Lawrence College,3325,1240.0,1420.0,55.8,ok
+158,New School,9911,1150.0,1360.0,56.6,ok
+159,University of Pittsburgh,32091,1260.0,1440.0,56.7,ok
+160,University of California Riverside,49788,1130.0,1340.0,56.7,ok
+161,University of Minnesota—​Twin Cities,40673,1260.0,1480.0,56.7,ok
+162,Hobart and William Smith Colleges,4526,1203.0,1360.0,56.9,ok
+163,Abilene Christian University,11569,1040.0,1230.0,57.0,ok
+164,Bennington College,1494,1230.0,1390.0,57.0,ok
+165,Birmingham-​Southern College,3628,1040.0,1250.0,57.0,ok
+166,Fairfield University,12315,1210.0,1350.0,57.1,ok
+167,Georgia State,19838,990.0,1190.0,57.4,ok
+168,Texas A&M University—​College Station,42899,1160.0,1390.0,57.5,ok
+169,Saint Louis University,15120,1180.0,1370.0,57.5,ok
+170,St. John's College Annapolis,913,1210.0,1450.0,57.6,ok
+171,Lake Forest College,4147,1110.0,1310.0,57.9,ok
+172,Kennesaw State University,13427,1080.0,1270.0,57.9,ok
+173,California State University--Fresno,18122,950.0,1130.0,57.9,ok
+174,Rollins College,6167,1160.0,1340.0,58.3,ok
+175,University of Hawaii at Manoa,16244,1070.0,1270.0,58.4,ok
+176,University of Denver,21028,1170.0,1350.0,58.7,ok
+177,Hampden-​Sydney College,3240,1050.0,1250.0,59.0,ok
+178,University of Illinois—​Urbana-​Champaign,43509,1220.0,1480.0,59.0,ok
+179,Millsaps College,4161,1080.0,1260.0,59.3,ok
+180,California State University--Northridge,30637,910.0,1130.0,59.3,ok
+181,Clark University,7687,1200.0,1390.0,59.4,ok
+182,Lipscomb University,3638,1060.0,1320.0,59.5,ok
+183,Virginia Military Institute,1515,1090.0,1270.0,59.5,ok
+184,Purdue University—​West Lafayette,54912,1190.0,1440.0,59.8,ok
+185,Temple University,35599,1120.0,1320.0,60.0,ok
+186,Rutgers The State University of New Jersey—​New Brunswick,41348,1190.0,1410.0,60.1,ok
+187,Illinois Institute of Technology,5049,1190.0,1400.0,60.2,ok
+188,Yeshiva University,1508,1140.0,1400.0,60.3,ok
+189,Illinois Wesleyan University,3719,1120.0,1320.0,60.8,ok
+190,Furman University,5469,1230.0,1410.0,61.1,ok
+191,University at Buffalo—​SUNY,29900,1160.0,1340.0,61.1,ok
+192,Concordia College—​Moorhead,4160,1080.0,1368.0,61.2,ok
+193,SUNY College of Environmental Science and Forestry,2018,1120.0,1310.0,61.4,ok
+194,University of Portland,14505,1160.0,1330.0,61.5,ok
+195,Cornell College,3118,1100.0,1345.0,61.8,ok
+196,Muhlenberg College,4146,1170.0,1360.0,61.8,ok
+197,Gonzaga University,9279,1210.0,1358.0,61.9,ok
+198,Beloit College,3657,1080.0,1380.0,62.0,ok
+199,Lawrence University,3463,1200.0,1430.0,62.1,ok
+200,University of Utah,24404,1142.5,1380.0,62.1,ok
+201,Allegheny College,5208,1170.0,1360.0,62.2,ok
+202,University of Delaware,27691,1170.0,1350.0,62.4,ok
+203,Westmont College,2937,1110.0,1370.0,62.4,ok
+204,Luther College,4422,1050.0,1310.0,62.6,ok
+205,Rutgers The State University of New Jersey—​Newark,13259,1020.0,1190.0,62.7,ok
+206,Earlham College,2070,1100.0,1370.0,63.4,ok
+207,Augustana College,6211,1070.0,1280.0,63.6,ok
+208,Wofford College,3522,1180.0,1350.0,63.6,ok
+209,New Jersey Institute of Technology,8123,1190.0,1380.0,63.7,ok
+210,University of Massachusetts—​Amherst,42157,1190.0,1390.0,63.8,ok
+211,Wabash College,1307,1120.0,1320.0,64.2,ok
+212,DePauw University,4935,1130.0,1360.0,64.4,ok
+213,Drury University,1664,1045.0,1225.0,64.4,ok
+214,St. John Fisher College,4720,1070.0,1260.0,64.5,ok
+215,University of San Francisco,18411,1130.0,1330.0,64.6,ok
+216,Bard College,5141,1248.0,1420.0,64.6,ok
+217,Goshen College,1278,1010.0,1210.0,64.7,ok
+218,Agnes Scott College,1751,1130.0,1340.0,64.8,ok
+219,Virginia Polytechnic Institute and State University,31936,1180.0,1390.0,64.8,ok
+220,University of Houston,25393,1140.0,1310.0,65.0,ok
+221,University of North Carolina—​Charlotte,21867,1120.0,1290.0,65.0,ok
+222,Truman State University,4568,1080.0,1358.0,65.3,ok
+223,University of North Carolina—​Wilmington,13287,1170.0,1320.0,65.5,ok
+224,SUNY—​Geneseo,10433,1120.0,1310.0,65.5,ok
+225,Embry-​Riddle Aeronautical University,6017,1110.0,1320.0,65.5,ok
+226,University of the Pacific,13096,1130.0,1360.0,65.6,ok
+227,Rochester Institute of Technology,18948,1200.0,1400.0,66.0,ok
+228,Berry College,3970,1110.0,1310.0,66.1,ok
+229,Mississippi State University,18269,1070.0,1280.0,66.3,ok
+230,Sewanee—​University of the South,3545,1150.0,1340.0,66.7,ok
+231,Hanover College,7795,1078.0,1300.0,66.9,ok
+232,Coe College,7795,1078.0,1300.0,66.9,ok
+233,Randolph-​Macon College,2907,1020.0,1240.0,67.1,ok
+234,Loyola University Chicago,25583,1140.0,1320.0,67.2,ok
+235,University of Vermont,19233,1180.0,1360.0,67.3,ok
+236,San Francisco State University,34629,940.0,1150.0,67.3,ok
+237,Brigham Young University—​Provo,10500,1210.0,1420.0,67.5,ok
+238,Drake University,6944,1100.0,1370.0,67.6,ok
+239,Stonehill College,6961,1120.0,1290.0,67.7,ok
+240,Elmhurst College,4175,990.0,1210.0,67.8,ok
+241,Taylor University,2341,1080.0,1310.0,68.1,ok
+242,DePaul University,26895,1070.0,1290.0,68.2,ok
+243,Knox College,3397,1090.0,1350.0,68.3,ok
+244,Hofstra University,24425,1160.0,1340.0,68.5,ok
+245,Ithaca College,15278,1160.0,1338.0,68.5,ok
+246,California State University--San Bernardino,16307,910.0,1090.0,68.6,ok
+247,University of South Carolina,31268,1180.0,1370.0,68.6,ok
+248,Albion College,4043,990.0,1200.0,68.8,ok
+249,Presbyterian College (SC),2462,1010.0,1210.0,68.8,ok
+250,Texas Tech University,25384,1070.0,1260.0,68.9,ok
+251,Ohio Wesleyan University,4705,1060.0,1295.0,69.0,ok
+252,Ripon College,2619,1000.0,1210.0,69.0,ok
+253,Drew University,3788,1110.0,1310.0,69.2,ok
+254,Gustavus Adolphus College,4957,990.0,1200.0,69.2,ok
+255,Central Michigan,16411,1040.0,1265.0,69.5,ok
+256,Oklahoma State University,15277,1070.0,1270.0,70.0,ok
+257,Bradley University,10708,1150.0,1310.0,70.2,ok
+258,Seton Hall University,19260,1080.0,1310.0,70.4,ok
+259,Biola University,4149,1140.0,1320.0,70.5,ok
+260,Ursinus College,3361,990.0,1170.0,70.9,ok
+261,Montclair State,14324,1160.0,1350.0,70.9,ok
+262,Clarkson University,6885,1100.0,1320.0,71.1,ok
+263,Michigan State University,44322,1070.0,1300.0,71.1,ok
+264,Hollins University,3244,1150.0,1350.0,71.2,ok
+265,Creighton University,10112,1070.0,1250.0,71.4,ok
+266,California Lutheran University,5752,1050.0,1269.0,71.5,ok
+267,University of Mary Washington,5909,1110.0,1280.0,71.8,ok
+268,Christopher Newport University,7204,980.0,1180.0,71.9,ok
+269,University of California—Merced,25368,1180.0,1340.0,72.0,ok
+270,Mercer University,5454,1120.0,1320.0,72.0,ok
+271,University of Dayton,17462,1220.0,1400.0,72.0,ok
+272,Lewis & Clark College,5863,1153.0,1390.0,72.2,ok
+273,Hendrix College,1545,1012.0,1345.0,72.2,ok
+274,University of Rhode Island,21259,990.0,1180.0,72.3,ok
+275,California State University--Chico,25908,1110.0,1300.0,72.3,ok
+276,Stetson University,13005,1090.0,1260.0,72.4,ok
+277,Quinnipiac University,22753,1130.0,1300.0,72.5,ok
+278,Duquesne University,7411,1030.0,1260.0,72.5,ok
+279,University of Illinois—​Chicago,22696,990.0,1230.0,72.7,ok
+280,University of Akron,14553,1070.0,1270.0,73.0,ok
+281,St. John's University (NY),27276,1160.0,1370.0,73.1,ok
+282,University of Cincinnati,23296,1110.0,1290.0,73.1,ok
+283,Simmons University,2933,1010.0,1230.0,73.1,ok
+284,Wayne State University,15716,1150.0,1330.0,73.1,ok
+285,Butler University,14891,1140.0,1310.0,73.2,ok
+286,Point Loma Nazarene University,3277,1060.0,1250.0,73.7,ok
+287,University of North Texas,21540,1108.0,1273.0,73.7,ok
+288,University of North Georgia,6498,1070.0,1250.0,73.7,ok
+289,Xavier University,15100,1150.0,1340.0,73.8,ok
+290,Wheaton College (MA),3460,970.0,1190.0,73.9,ok
+291,Eastern Michigan,14323,1038.0,1250.0,74.1,ok
+292,University of Washington--Bothell,4242,1080.0,1270.0,74.1,ok
+293,Adelphi University,13006,1030.0,1250.0,74.2,ok
+294,Baldwin Wallace University,3926,1170.0,1370.0,74.2,ok
+295,Michigan Technological University,5978,1190.0,1390.0,74.3,ok
+296,Drexel University,31824,1100.0,1250.0,74.7,ok
+297,University of Redlands,4713,1050.0,1260.0,75.0,ok
+298,Loyola University New Orleans,5857,960.0,1170.0,75.0,ok
+299,California State University--Monterey Bay,12327,1030.0,1213.0,75.3,ok
+300,Whittier College,6220,1170.0,1370.0,75.9,ok
+301,Kalamazoo College,3576,1060.0,1220.0,76.0,ok
+302,Towson University,12678,1130.0,1380.0,76.3,ok
+303,Centre College,2212,1030.0,1220.0,76.4,ok
+304,University of Texas San Antonio,17122,1120.0,1290.0,76.6,ok
+305,Ball State,23305,1100.0,1270.0,76.7,ok
+306,James Madison University,23578,1150.0,1360.0,76.8,ok
+307,Appalachian State University,16664,1090.0,1250.0,76.8,ok
+308,Indiana University—​Bloomington,44169,1070.0,1260.0,76.9,ok
+309,High Point University,10098,1120.0,1300.0,76.9,ok
+310,Virginia Commonwealth University,18622,1060.0,1365.0,77.1,ok
+311,University of Arkansas—​Fayetteville,17913,1010.0,1240.0,77.1,ok
+312,John Brown University,1094,1090.0,1290.0,77.1,ok
+313,University of Idaho,8071,1140.0,1340.0,77.8,ok
+314,University of Missouri,18948,1120.0,1360.0,77.8,ok
+315,Willamette University,3972,1070.0,1270.0,77.9,ok
+316,University of Nebraska—​Lincoln,16829,1080.0,1260.0,78.2,ok
+317,Carroll College,2709,1140.0,1350.0,78.3,ok
+318,College of Charleston,11783,1160.0,1320.0,78.3,ok
+319,University of Colorado—​Boulder,40740,1160.0,1330.0,78.4,ok
+320,Elon University,10500,1240.0,1460.0,78.4,ok
+321,Seattle University,7968,1030.0,1190.0,78.5,ok
+322,University of Texas—​Dallas,14327,1150.0,1330.0,78.6,ok
+323,East Carolina,19234,1060.0,1260.0,78.7,ok
+324,University of Tennessee,21764,1070.0,1270.0,78.8,ok
+325,University of Texas Arlington,12335,1000.0,1210.0,79.5,ok
+326,Pacific Lutheran University,3740,1143.0,1320.0,79.8,ok
+327,Western Michigan,17698,1210.0,1410.0,79.9,ok
+328,Loyola University Maryland,10077,1040.0,1290.0,80.2,ok
+329,Miami University—​Oxford,28920,1130.0,1310.0,80.4,ok
+330,Goucher College,3154,1150.0,1320.0,80.4,ok
+331,University of Oklahoma,15673,1030.0,1250.0,80.4,ok
+332,Auburn University,20205,960.0,1180.0,80.7,ok
+333,University of Nevada—​Las Vegas,12720,1070.0,1240.0,80.7,ok
+334,Boise State,10788,1070.0,1280.0,80.8,ok
+335,St. Mary's College of California,6069,1010.0,1250.0,81.0,ok
+336,Siena College,7728,1010.0,1180.0,81.1,ok
+337,University of North Dakota,4964,1070.0,1290.0,81.1,ok
+338,Texas State University,23583,1010.0,1230.0,81.1,ok
+339,Colorado State University,28319,1050.0,1240.0,81.4,ok
+340,University of Memphis,15381,1100.0,1310.0,81.4,ok
+341,West Virginia University,18639,1130.0,1380.0,81.6,ok
+342,University of Oregon,27358,1050.0,1260.0,81.6,ok
+343,University of St. Thomas (MN),6819,1020.0,1220.0,81.9,ok
+344,St. Mary's College (IN),1862,1050.0,1260.0,81.9,ok
+345,Illinois State,16151,940.0,1140.0,81.9,ok
+346,Ohio University,24179,1000.0,1160.0,82.1,ok
+347,California State University--Sacramento,27576,1130.0,1340.0,82.3,ok
+348,University of North Carolina—​Greensboro,9972,1140.0,1320.0,82.4,ok
+349,University of Iowa,25928,1020.0,1220.0,82.6,ok
+350,St. Michael's College,4040,1120.0,1320.0,82.6,ok
+351,University of Alaska Anchorage,3673,990.0,1210.0,83.0,ok
+352,Marquette University,15078,1080.0,1320.0,83.0,ok
+353,College of St. Benedict,1931,1140.0,1320.0,83.4,ok
+354,Oregon State University,15786,1150.0,1370.0,83.6,ok
+355,The Catholic University of America,6096,1070.0,1270.0,83.7,ok
+356,University of Puget Sound,5182,1180.0,1380.0,83.8,ok
+357,University of New Hampshire,18040,1060.0,1290.0,84.0,ok
+358,Missouri University of Science & Technology,4333,1120.0,1350.0,84.2,ok
+359,St. Mary's College of Maryland,1621,1100.0,1290.0,84.3,ok
+360,University of Arizona,40854,1130.0,1360.0,84.6,ok
+361,Susquehanna University,4863,1220.0,1440.0,84.8,ok
+362,Arizona State University—​Tempe,26869,1030.0,1230.0,84.8,ok
+363,Wheaton College (IL),1889,1090.0,1280.0,84.8,ok
+364,Northern Arizona,36855,1040.0,1230.0,85.0,ok
+365,Washington and Jefferson College,2722,1008.0,1240.0,85.2,ok
+366,Kent State,16308,1130.0,1330.0,85.5,ok
+367,Mills College,1003,1070.0,1290.0,85.5,ok
+368,Hope College,3748,1110.0,1320.0,85.7,ok
+369,Valparaiso University,5491,990.0,1200.0,85.8,ok
+370,George Mason University,19554,1040.0,1240.0,86.7,ok
+371,Old Dominion,13335,1000.0,1398.0,87.0,ok
+372,Missouri State,7581,1100.0,1310.0,87.9,ok
+373,University of Wisconsin Milwaukee,8280,1050.0,1260.0,88.5,ok
+374,Transylvania University,1702,980.0,1190.0,88.7,ok
+375,Weber State,6853,1050.0,1310.0,89.1,ok
+376,University of Maine,13118,1100.0,1340.0,90.2,ok
+377,Humboldt State University,16335,1090.0,1300.0,90.9,ok
+378,Utah State,15276,1060.0,1270.0,91.0,ok
+379,Iowa State University,18246,1070.0,1250.0,92.1,ok
+380,Washington College,2225,1080.0,1300.0,92.4,ok
+381,University of Montana,6182,1000.0,1240.0,92.6,ok
+382,Samford University,3912,1010.0,1230.0,92.9,ok
+383,University of Kansas,15093,1040.0,1240.0,93.1,ok
+384,University of Kentucky,19324,990.0,1220.0,94.5,ok
+385,University of Toledo,10228,1240.0,1520.0,95.1,ok
+386,Kansas State University,8140,1160.0,1380.0,95.7,ok
+387,Portland State,7821,1230.0,1440.0,96.1,ok
+388,Queens University of Charlotte,2319,1245.0,1420.0,96.2,ok
+389,Western Kentucky,8245,1200.0,1340.0,97.3,ok
+401,Gallaudet University,496,1080.0,1310.0,57.1,ok
+402,Florida International,18492,1050.0,1230.0,57.5,ok
+403,Morehouse College,3554,1220.0,1420.0,57.9,ok
+404,University of Alabama,37302,1220.0,1400.0,59.1,ok
+405,Milwaukee School of Engineering,3552,950.0,1130.0,61.7,ok
+406,Florida Institute of Technology,9743,990.0,1180.0,65.7,ok
+407,Louisiana State University—​Baton Rouge,24501,1050.0,1270.0,74.6,ok
+408,The Citadel,2742,1060.0,1280.0,74.7,ok
+409,New College of Florida,1340,820.0,1050.0,76.8,ok
